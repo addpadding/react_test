@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap');
+
+html {
+    direction: rtl;
+    font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+}
+
+body {
+    background-color: #2d2421;
+}
+
+/* 004 */
+.text_info {
+    color: #fff;
+}
+
+
+/* 001 */
+.divider {
+    border-color: white !important;
+    /* border-color: gold !important; */
+}
+
+/* 001 */
+.stack_Prayer {
+    margin-top: 50px;
+}
+
+/* 001 */
+.stack_Select {
+    justify-content: center !important;
+    margin-top: 50px;
+}
+
+/* 002 */
+.FormControl {
+    width: 20%;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border-color: white !important;
+}
+
+.MuiSvgIcon-root {
+    color: #fff !important;
+}
+
+.CardContent {
+    background-color: #fff !important;
+}
+
+/* 003 */
+.span_city {
+    color: #fff;
+}
+
+/* 003 */
+.Select {
+    color: #fff !important;
+}
